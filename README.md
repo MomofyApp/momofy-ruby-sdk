@@ -1,7 +1,7 @@
 
 ## Momofy Ruby Library 
 
-Officially supported momofy package for PHP applications.
+Officially supported Momofy package for Ruby applications.
 
 
 **Some useful resources**
